@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-3.gif" width="600" height="300"/>
+  <img src="https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-3.gif" width="150" height="150"/>
 </div>
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
