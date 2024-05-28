@@ -1,4 +1,6 @@
-https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-3.gif
+<div align="right">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-3.gif)" width="600" height="300"/>
+</div>
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
